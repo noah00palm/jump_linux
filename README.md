@@ -1,4 +1,4 @@
-# jump_linux
+# Linux Jump Utility
 A shell script utility that lets you type the name of a directory and jump 
 directly to it without executing the "cd ../" command repeatedly.
 
@@ -24,5 +24,8 @@ $ echo "source ~/path/to/our/file/jump.sh">> ~/.bashrc
 
 ``` 
 $ jump dir_name  
-```  
+```
+
+#### Reference Link:  
+
 [geeksforgeeks - Introduction to Linux Shell and Shell Scripting](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/?ref=shm)  
