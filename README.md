@@ -1,9 +1,10 @@
 # Linux Jump Utility
 A shell script utility that lets you type the name of a directory and jump 
-directly to it without executing the "cd ../" command repeatedly.
+directly to it without executing the `cd ../` command repeatedly.
 
 ## How to use jump.sh:
-Copy the code and save it as "__jump.sh__"
+Copy the code and save it as "__jump.sh__"  
+  
 Before you can execute the script you need to make it executable by typing the following:
 
 ```no-highlight  
@@ -27,5 +28,4 @@ $ jump dir_name
 ```
 
 #### Reference Link:  
-
 [geeksforgeeks - Introduction to Linux Shell and Shell Scripting](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/?ref=shm)  
